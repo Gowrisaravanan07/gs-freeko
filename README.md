@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/gowrisaravanan/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/gowri-saravanan-s-a5b727332/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a Computer Science Engineering student at KPR Institute of Engineering and Technology, Coimbatore, aspiring to build a career in AI Engineering.
+Final year Computer Science Engineering graduate at KPR Institute of Engineering and Technology, Coimbatore, aspiring to build a career in AI Engineering.
 
 - Interested in Generative AI, Natural Language Processing and intelligent applications.
 - Exploring Retrieval-Augmented Generation (RAG) and AI-powered systems.
@@ -131,20 +131,6 @@ An AI assistant concept designed to help users discover government schemes, unde
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gs-freeko&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-freeko&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=gs-freeko&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -152,7 +138,7 @@ An AI assistant concept designed to help users discover government schemes, unde
 <a href="https://github.com/gs-freeko">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/gowri-saravanan-s-a5b727332/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 <a href="https://leetcode.com/u/gowrisaravanan/">
